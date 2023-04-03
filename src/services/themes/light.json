@@ -1,0 +1,39 @@
+{
+  "colors": {
+    "primary": "#7E00BF",
+    "secondary": "#56317B",
+    "background": "#F2F6FA",
+    "tertiary": "#F3FBFF",
+    "dark": "#000000",
+    "light": "#FFFFFF",
+    "variations": {
+      "success": "#37bb53",
+      "danger": "#dc3545",
+      "info": "#17a2b8",
+      "warning": "#ffc107",
+      "light": "#FFFFFF",
+      "dark": "#343a40"
+    },
+    "font": {
+      "link": "#7E00BF",
+      "success": "#37bb53",
+      "danger": "#dc3545",
+      "info": "#17a2b8",
+      "warning": "#ffc107",
+      "light": "#FFFFFF",
+      "dark": "#222222"
+    },
+    "grayscale": {
+      "gray1": "#4B4B4B",
+      "gray2": "#9A9A9A",
+      "gray3": "#DADADA",
+      "gray4": "#F5F5F5",
+      "gray5": "#ACACBF",
+      "gray6": "#EAEFF1"
+    }
+  },
+  "fontFamilies": {
+    "primary": "Baton Turbo",
+    "secondary": ""
+  }
+}
